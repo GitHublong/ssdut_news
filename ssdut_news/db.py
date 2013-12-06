@@ -14,7 +14,7 @@ logging.basicConfig( filename = "db.log" ,filemode='a' , leval = logging.INFO)
 class MysqlHandler( ) :
     def __init__( self ) :
         try : 
-            self.db = torndb.Connection( 'localhost' , 'long_ssdut' , user='root' , password='332629100' )
+            self.db = torndb.Connection( 'localhost' , 'long_ssdut' , user='xxx' , password='xxx' )
         except Exception as e : 
             logging.INFO(e)
 
