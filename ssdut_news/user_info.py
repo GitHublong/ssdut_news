@@ -10,7 +10,7 @@ import db
 
 user_info_list=[]
 
-myfetion = Fetion('18842601624' , 'feixinlong')
+myfetion = Fetion('telnum' , 'pw')
 
 class Add_User(tornado.web.RequestHandler ) :
     def get(self):
