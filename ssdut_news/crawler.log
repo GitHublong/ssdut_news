@@ -1,0 +1,2785 @@
+Initial data already loaded, begin updating
+records on site = 3621, max_id in db = 3542L
+will update 79L news
+<New 领取四六级准考证的通知 - 2013-12-06> added to db, id = 3621
+<New 关于2013年第二期学生预备党员考试补考的通知 - 2013-12-06> added to db, id = 3620
+<New 2012级录取服务科学与工程系第二批录取面试通知 - 2013-12-06> added to db, id = 3619
+<New 2012级录取网络工程系网络安全专业方向第一批名单 - 2013-12-06> added to db, id = 3618
+<New 关于将学生身份信息写入火车票优惠卡的通知 - 2013-12-06> added to db, id = 3617
+<New 关于开设移动互联网方向课程的通知 - 2013-12-06> added to db, id = 3616
+<New 2012级录取服务科学与工程专业第一批名单 - 2013-12-06> added to db, id = 3615
+<New 【第八届科技文化节】数学模型学习与应用大赛获奖名单 - 2013-12-05> added to db, id = 3614
+<New 创新中心第14周技术沙龙 - 2013-12-05> added to db, id = 3613
+<New 选拔招募2014年“橙梦企航”企业行寒假社会实践活动队员的通知 - 2013-12-05> added to db, id = 3612
+<New 2012级录取数字媒体技术专业第一批名单 - 2013-12-05> added to db, id = 3611
+<New 软件学院社团联合会新注册成立社团名单公示 - 2013-12-05> added to db, id = 3610
+Resetting dropped connection: www.renren.com
+Starting new HTTP connection (1): notify.renren.com
+Starting new HTTP connection (1): shell.renren.com
+POST ON RENREN: 软件学院社团联合会新注册成立社团名单公示 - 郎君 http://ssdut.dlut.edu.cn/index.php/News/11405.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 2012级录取数字媒体技术专业第一批名单 - 王鄂 http://ssdut.dlut.edu.cn/index.php/News/11406.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 选拔招募2014年“橙梦企航”企业行寒假社会实践活动队员的通知 - 郎君 http://ssdut.dlut.edu.cn/index.php/News/11407.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 创新中心第14周技术沙龙 - 贾棋 http://ssdut.dlut.edu.cn/index.php/News/11408.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 【第八届科技文化节】数学模型学习与应用大赛获奖名单 - 贾棋 http://ssdut.dlut.edu.cn/index.php/News/11409.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 2012级录取服务科学与工程专业第一批名单 - 王鄂 http://ssdut.dlut.edu.cn/index.php/News/11412.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 关于开设移动互联网方向课程的通知 - zhu ming http://ssdut.dlut.edu.cn/index.php/News/11413.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 关于将学生身份信息写入火车票优惠卡的通知 - 姜瑞勋 http://ssdut.dlut.edu.cn/index.php/News/11414.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 2012级录取网络工程系网络安全专业方向第一批名单 - 王鄂 http://ssdut.dlut.edu.cn/index.php/News/11415.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 2012级录取服务科学与工程系第二批录取面试通知 - 王鄂 http://ssdut.dlut.edu.cn/index.php/News/11417.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 关于2013年第二期学生预备党员考试补考的通知 - 辛永亮 http://ssdut.dlut.edu.cn/index.php/News/11418.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 领取四六级准考证的通知 - 姜瑞勋 http://ssdut.dlut.edu.cn/index.php/News/11421.html
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3621, max_id in db = 3621L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3621L
+will update 1L news
+<New 【第八届科技文化节】嵌入式系统开发大赛成绩 - 2013-12-06> added to db, id = 3622
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 【第八届科技文化节】嵌入式系统开发大赛成绩 - 路慧 http://ssdut.dlut.edu.cn/index.php/News/11422.html
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Initial data already loaded, begin updating
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Initial data already loaded, begin updating
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3622, max_id in db = 3622L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3622L
+will update 1L news
+<New 【第八届科技文化节】linux技能挑战大赛圆满结束 - 2013-12-06> added to db, id = 3623
+Resetting dropped connection: www.renren.com
+Starting new HTTP connection (1): notify.renren.com
+Starting new HTTP connection (1): shell.renren.com
+POST ON RENREN: 【第八届科技文化节】linux技能挑战大赛圆满结束 - 路慧 http://ssdut.dlut.edu.cn/index.php/News/11423.html
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3623, max_id in db = 3623L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3623L
+will update 1L news
+<New 【第八届科技文化节】小游戏开发大赛 - 2013-12-06> added to db, id = 3624
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 【第八届科技文化节】小游戏开发大赛 - 路慧 http://ssdut.dlut.edu.cn/index.php/News/11424.html
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3624, max_id in db = 3624L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3624L
+will update 1L news
+<New 【第八届科技文化节】第三届C语言知识竞赛获奖结果 - 2013-12-06> added to db, id = 3625
+Resetting dropped connection: www.renren.com
+Resetting dropped connection: notify.renren.com
+Resetting dropped connection: shell.renren.com
+POST ON RENREN: 【第八届科技文化节】第三届C语言知识竞赛获奖结果 - 路慧 http://ssdut.dlut.edu.cn/index.php/News/11425.html
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Initial data already loaded, begin updating
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Initial data already loaded, begin updating
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Initial data already loaded, begin updating
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Initial data already loaded, begin updating
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Initial data already loaded, begin updating
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Initial data already loaded, begin updating
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
+Resetting dropped connection: www.renren.com
+records on site = 3625, max_id in db = 3625L
