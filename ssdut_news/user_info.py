@@ -14,7 +14,7 @@ myfetion = Fetion('telnum' , 'pw')
 
 class Add_User(tornado.web.RequestHandler ) :
     def get(self):
-	if self.get_secure_cookie("name") == "network":
+	if self.get_secure_cookie("name") == "xxx":
 	    self.render("add_user.html")
 	else :
 	    self.redirect("/")
@@ -39,8 +39,8 @@ class Login( tornado.web.RequestHandler ) :
     def post(self ):
 	name = self.get_argument("name").strip()
 	pw   = self.get_argument("pw").strip()
-	if name == "network":
-	    if pw == "network2013":
+	if name == "xxx":
+	    if pw == "xxx":
 		try :
 		    self.set_secure_cookie("name",name)
 		    self.redirect("/add")
@@ -66,12 +66,12 @@ class Application ( tornado.web.Application ):
             static_path   = os.path.join(os.path.dirname(__file__) , "statics" ) ,
             template_path = os.path.join(os.path.dirname(__file__) , "template") ,
             login_url     = "/",
-	    cookie_secret = "sVgP3zdiS36r+rCKpS0IRtXaF1zgkEuliflY7hNcxKc=" ,
+	    cookie_secret = "yyyyy" ,
 	)
 	tornado.web.Application.__init__(self , handlers , **settings )
 	self.db = db.MysqlHandler()
 
 if __name__ == "__main__":
     http_server = tornado.httpserver.HTTPServer(Application() )
-    http_server.listen(12121)
+    http_server.listen(8080)
     tornado.ioloop.IOLoop.instance().start()
