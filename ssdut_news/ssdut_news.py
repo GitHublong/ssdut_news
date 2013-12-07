@@ -68,7 +68,7 @@ def get_contents ( url ) :
 
 def release_news( news ):
     release_news = "网络组飞信端(消息以学院网为准):\n标题:"+news['title'] +" \n 时间:" + news['time'] + "\n 来源: "+ news['source'] + " \n 正文: " + news['content']
-    myfetion = Fetion('18842601624','feixinlong')
+    myfetion = Fetion('xxxx','xxxx')
     
     try:
         myfetion.send2self( release_news )
